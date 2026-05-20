@@ -1,0 +1,65 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~
+*.ipynb_checkpoints
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv
+.virtualenv
+*env/
+
+# Sensitive data
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+*.pickle
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Output files
+output/
+results/
+*.html
+*.png
+*.jpg
+*.jpeg
+
+# Data files (исключаем, так как они могут быть большими)
+data/
+*.zip
+*.tar
+*.gz
+
+# Secret keys
+config.py
+secrets.py
+credentials.pygodhelpmeplease.env
+.env
+.ipynb_checkpoints/
+__pycache__/
