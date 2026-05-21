@@ -64,3 +64,6 @@ credentials.pygodhelpmeplease.env
 .ipynb_checkpoints/
 __pycache__/
 godhelpmeplease.env
+.env
+.env.example
+.env
